@@ -9,7 +9,7 @@
   
 <hr>
 
-- [Linkedin]("www.linkedin.com/in/daniel-vieira-fernandes-6397a5249")
+- [Linkedin](https://www.linkedin.com/in/daniel-vieira-fernandes-6397a5249)
 - I'm currently open to work ⚡
 
 <hr>
