@@ -17,7 +17,8 @@
 ### Technologies I've worked with
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/)
-- [ReactJS](https://reactjs.org) | [React Native](https://reactnative.dev/) | [Styled-Components](https://styled-components.com/) 
+- [ReactJS](https://reactjs.org) | [React Native](https://reactnative.dev/) | [Styled-Components](https://styled-components.com/)
+- [Restyle](https://shopify.github.io/restyle/)
 
 ##
 <div style="display: inline_block"><br>
