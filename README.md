@@ -19,6 +19,7 @@
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org) | [React Native](https://reactnative.dev/) | [Styled-Components](https://styled-components.com/)
 - [Restyle](https://shopify.github.io/restyle/) | [NodeJS](https://nodejs.org/en) | [Gluestack](https://gluestack.io/)
+- [Fastify](https://fastify.dev/) | [Knex](https://knexjs.org/)
 
 ##
 <div style="display: inline_block"><br>
