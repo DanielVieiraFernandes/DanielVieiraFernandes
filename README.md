@@ -9,16 +9,16 @@
   
 <hr>
 
-- [Linkedin](https://www.linkedin.com/in/daniel-vieira-fernandes-6397a5249)
-- I'm currently open to work ⚡
-
-<hr>
-
 ## 🚀 Tech Stack
 
 | JavaScript | TypeScript | React Native | Node.js | NestJS | PostgreSQL |
 |------------|-----------|--------------|---------|--------|------------|
 | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) | ![NestJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg) | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) |
 
+<hr>
+
+## 📫 Reach me at: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-vieira-fernandes-6397a5249)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandesdanielvieira@gmail.com)
 
 
