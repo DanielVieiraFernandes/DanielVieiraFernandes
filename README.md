@@ -22,20 +22,8 @@
 - [Fastify](https://fastify.dev/) | [Knex](https://knexjs.org/) | [Prisma](https://www.prisma.io/?via=start&gad_source=1&gclid=CjwKCAiAqrG9BhAVEiwAaPu5zvCpJV0WCNbHrgdvNdeaKfE4eZfS91cxnucGLgZK-Xz9UdD6VAurgBoCpRAQAvD_BwE)
 
 ##
-<div style="display: inline_block"><br>
-<p align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://reactnative.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  </a>
-</p>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-</div>
