@@ -19,7 +19,7 @@
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org) | [React Native](https://reactnative.dev/) | [Styled-Components](https://styled-components.com/)
 - [Restyle](https://shopify.github.io/restyle/) | [NodeJS](https://nodejs.org/en) | [Gluestack](https://gluestack.io/)
-- [Fastify](https://fastify.dev/) | [Knex](https://knexjs.org/)
+- [Fastify](https://fastify.dev/) | [Knex](https://knexjs.org/) | [Prisma](https://www.prisma.io/?via=start&gad_source=1&gclid=CjwKCAiAqrG9BhAVEiwAaPu5zvCpJV0WCNbHrgdvNdeaKfE4eZfS91cxnucGLgZK-Xz9UdD6VAurgBoCpRAQAvD_BwE)
 
 ##
 <div style="display: inline_block"><br>
