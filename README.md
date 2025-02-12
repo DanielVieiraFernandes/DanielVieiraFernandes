@@ -16,14 +16,13 @@
 
 ### Technologies I've worked with
 
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/)
-- [ReactJS](https://reactjs.org) | [React Native](https://reactnative.dev/) | [Styled-Components](https://styled-components.com/)
-- [Restyle](https://shopify.github.io/restyle/) | [NodeJS](https://nodejs.org/en) | [Gluestack](https://gluestack.io/)
-- [Fastify](https://fastify.dev/) | [Knex](https://knexjs.org/) | [Prisma](https://www.prisma.io/?via=start&gad_source=1&gclid=CjwKCAiAqrG9BhAVEiwAaPu5zvCpJV0WCNbHrgdvNdeaKfE4eZfS91cxnucGLgZK-Xz9UdD6VAurgBoCpRAQAvD_BwE)
-
 ##
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+
 
