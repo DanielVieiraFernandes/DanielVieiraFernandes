@@ -9,6 +9,13 @@
   
 <hr>
 
+## O que você vai encontrar por aqui? 🔎
+
+- Aplicações Mobile
+- Aplicações Web
+- Aplicações Back-End
+- Projetos práticos integrando diversas tecnologias
+
 ## 🚀 Tech Stack
 
 | JavaScript | TypeScript | React Native | Node.js | NestJS | PostgreSQL |
