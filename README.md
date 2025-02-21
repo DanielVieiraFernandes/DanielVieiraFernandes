@@ -15,7 +15,7 @@
 - Aplicações Web
 - Aplicações Back-End
 - Projetos práticos integrando diversas tecnologias
-
+<hr>
 ## 🚀 Tech Stack
 
 | JavaScript | TypeScript | React Native | Node.js | NestJS | PostgreSQL |
