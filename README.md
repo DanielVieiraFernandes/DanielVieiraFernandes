@@ -19,9 +19,9 @@
 
 ## 🚀 Tech Stack
 
-| JavaScript | TypeScript | React | React Native | Node.js | NestJS | PostgreSQL |
-|------------|-----------|--------------|---------|--------|------------|------------|
-| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) | ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) | ![ReactNative](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) | ![NestJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg) | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) |
+| JavaScript | TypeScript | React | React Native | Node.js | NestJS | PostgreSQL | Docker |
+|------------|-----------|--------------|---------|--------|------------|------------|------------|
+| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) | ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) | ![ReactNative](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) | ![NestJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg) | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) |![Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg) |
 
 
 ## 📫 Me contate por aqui: 
