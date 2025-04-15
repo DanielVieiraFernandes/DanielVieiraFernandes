@@ -1,5 +1,13 @@
 ### Olá 👋 Bem-vindo ao meu GitHub!
 
+<p>Sou um programador apaixonado por criar soluções que sejam úteis, prezando sempre pela qualidade técnica. Busco um aprendizado contínuo através dos meus estudos e projetos práticos, onde posso explorar novas tecnologias, melhorar minhas habilidades e entender a fundo como cada parte de um sistema funciona.
+</p>
+<p>
+Tenho interesse especial em desenvolvimento full stack, com foco em aplicações modernas, performáticas e com boa experiência para o usuário. Atualmente, estou me aprofundando em back-end com Node.js, ao mesmo tempo em que aplico meus conhecimentos em front-end com React e React Native.
+</p>
+<p>
+Gosto de trabalhar com boas práticas, como Clean Code, testes automatizados e arquitetura escalável. Acredito que tecnologia de verdade é aquela que resolve problemas de forma eficiente, e é isso que me motiva todos os dias a programar melhor.</p>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=DanielVieiraFernandes&hide=issues&show_icons=true&theme=radical" />
