@@ -2,21 +2,22 @@
 
 ###
 
-<div style="display:flex; align-items: center; gap: 2rem; margin-bottom: 3rem">
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielVieiraFernandes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  </div>
   <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVieiraFernandes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <h3 align="left">🧠 Sobre mim</h3>
 
 ###
 
-<p align="justify">Sou um programador focado em qualidade técnica, boas práticas e aprendizado contínuo. Busco entender a fundo como cada parte de um sistema funciona, explorando tecnologias modernas tanto no front-end quanto no back-end.<br><br>Atualmente, tenho me dedicado ao desenvolvimento back-end com Node.js e NestJS, além de aplicar meus conhecimentos no front com React e React Native para construir aplicações completas e modernas.</p>
+<p align="left">Sou um programador focado em qualidade técnica, boas práticas e aprendizado contínuo. Busco entender a fundo como cada parte de um sistema funciona, explorando tecnologias modernas tanto no front-end quanto no back-end.<br><br>Atualmente, tenho me dedicado ao desenvolvimento back-end com Node.js e NestJS, além de aplicar meus conhecimentos no front com React e React Native para construir aplicações completas e modernas.</p>
 
-</div>
-  <div><img src="https://github-readme-stats.vercel.app/api?username=DanielVieiraFernandes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" width="800"  alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVieiraFernandes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" alt="languages graph"  /></div>
-</div>
-
-
+###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
