@@ -1,57 +1,45 @@
-<h2 align="left">Olá 👋, sou Daniel Vieira Fernandes</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7CBEFF&text=Daniel%20Vieira&section=header&textBg=false&fontColor=fff&fontSize=50&animation=fadeIn"/>
 
-###
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Daniel+Vieira;Desenvolvedor+Full+Stack;)
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielVieiraFernandes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" width="50%" alt="stats graph"  />
-  </div>
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVieiraFernandes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" width="50%" alt="languages graph"  />
+---
+
+## 👨‍💻 Sobre mim
+
+Sou Daniel Vieira, um Desenvolvedor Full Stack Júnior com uma paixão contagiante por transformar ideias em código e construir soluções eficientes. Nos meus primeiros meses de experiência profissional, mergulhei no desenvolvimento de um aplicativo em React Native para contagem de estoque, onde sou responsável tanto pela manutenção do app quanto do seu back-end.
+
+Minha sede por conhecimento me impulsiona: estou constantemente estudando e aprimorando minhas habilidades em desenvolvimento back-end, com foco especial em Node.js e no framework NestJS. Almejo me tornar um programador de referência, sempre evoluindo e contribuindo com projetos inovadores.
+
+Atualmente, curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Hortolândia (IFSP) e sou formado técnico pela ETEC de Hortolândia, bases que solidificam minha jornada no universo da tecnologia.
+
+---
+
+## 🚀 Minhas skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,aws,cloudflare,docker,sqlite,postgres,html,css,firebase,git,github,figma&perline=10" />
 </div>
 
-###
+---
 
-<h3 align="left">🧠 Sobre mim</h3>
+## 📊 GitHub Stats
 
-###
-
-<p align="left">Sou um programador focado em qualidade técnica, boas práticas e aprendizado contínuo. Busco entender a fundo como cada parte de um sistema funciona, explorando tecnologias modernas tanto no front-end quanto no back-end.<br><br>Atualmente, tenho me dedicado ao desenvolvimento back-end com Node.js e NestJS, além de aplicar meus conhecimentos no front com React e React Native para construir aplicações completas e modernas.</p>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-</div>
-
-###
-
-<div align="right">
- <a href="mailto:fernandesdanielvieira@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
- <a href="https://www.linkedin.com/in/daniel-vieira-fernandes" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+<div align="center">
+  <a href="https://github.com/DanielVieiraFernandes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielVieiraFernandes&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVieiraFernandes&layout=compact&langs_count=10&theme=radical"/>
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+## 📬 Contato
 
-<img src="https://raw.githubusercontent.com/DanielVieiraFernandes/DanielVieiraFernandes/output/snake.svg" alt="Snake animation" />
+<div align="center"> 
+  <a href="mailto:fernandesdanielvieira@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/danielvieiradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-###
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7CBEFF&section=footer&textBg=false&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
