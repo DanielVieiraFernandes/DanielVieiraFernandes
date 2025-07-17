@@ -17,7 +17,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas no Instituto Federal de
 ## 🚀 Minhas skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,cs,dotnet,aws,cloudflare,docker,sqlite,postgres,html,css,firebase,git,github,figma,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,cs,dotnet,aws,cloudflare,docker,sqlite,postgres,redis,html,css,firebase,git,github,figma,linux&perline=10" />
 </div>
 
 ---
