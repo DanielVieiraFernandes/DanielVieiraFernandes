@@ -2,6 +2,18 @@
 
 ###
 
+Sou Desenvolvedor de Software e atualmente trabalho com C#, Blazor, ASP.NET e PostgreSQL no desenvolvimento de soluções robustas e escaláveis. Também tenho experiência com JavaScript/TypeScript, especialmente com o framework NestJS, e uma base sólida em bancos de dados relacionais, como PostgreSQL.
+
+Atualmente, estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal Campus Hortolândia, onde venho aprofundando meus conhecimentos em estruturas de dados, algoritmos e boas práticas de programação. Recentemente, também tive contato com Java durante a graduação, o que ampliou ainda mais minha visão sobre paradigmas de programação.
+
+Tenho facilidade em identificar e resolver bugs, com uma abordagem precisa de debug e análise. Gosto de enfrentar problemas técnicos complexos e encontrar soluções eficientes sejam elas imediatas ou estruturadas para médio e longo prazo.
+
+Sou apaixonado pelo ecossistema .NET e por linguagens de programação de forma geral. Tenho um vocabulário técnico sólido, o que me permite colaborar de forma eficaz com diferentes perfis dentro de um projeto, conectando times técnicos e stakeholders de forma clara e objetiva.
+
+Nos meus momentos livres, gosto de resolver desafios de lógica e programação em plataformas como HackerRank e LeetCode sempre em busca de aprimorar meu raciocínio lógico e minhas habilidades de resolução de problemas.
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielVieiraFernandes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVieiraFernandes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
