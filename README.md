@@ -25,7 +25,7 @@ Nos meus momentos livres, gosto de resolver desafios de lógica e programação 
 
 ###
 
-<div align="left">
+<div align="justify">
   <!-- Linguagens -->
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
