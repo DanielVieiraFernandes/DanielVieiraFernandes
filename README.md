@@ -4,7 +4,7 @@
 
 Trabalho com C#, Blazor, ASP.NET e PostgreSQL no desenvolvimento de soluções robustas e escaláveis. Também tenho experiência com JavaScript/TypeScript, especialmente com o framework NestJS, e uma base sólida em bancos de dados relacionais, como PostgreSQL.
 
-Atualmente, estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal Campus Hortolândia, onde venho aprofundando meus conhecimentos em estruturas de dados, algoritmos e boas práticas de programação. Recentemente, também tive contato com Java durante a graduação, o que ampliou ainda mais minha visão sobre paradigmas de programação.
+Atualmente, estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal Campus Hortolândia, onde venho aprofundando meus conhecimentos em estruturas de dados, algoritmos e boas práticas de programação. Recentemente, também desenvolvi projetos com Java durante a graduação, o que ampliou ainda mais minha visão sobre paradigmas de programação.
 
 Tenho facilidade em identificar e resolver bugs, com uma abordagem precisa de debug e análise. Gosto de enfrentar problemas técnicos complexos e encontrar soluções eficientes sejam elas imediatas ou estruturadas para médio e longo prazo.
 
