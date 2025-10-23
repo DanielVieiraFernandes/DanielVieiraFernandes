@@ -8,7 +8,7 @@ Atualmente, estou cursando o segundo semestre de Análise e Desenvolvimento de S
 
 Tenho facilidade em identificar e resolver bugs, com uma abordagem precisa de debug e análise. Gosto de enfrentar problemas técnicos complexos e encontrar soluções eficientes sejam elas imediatas ou estruturadas para médio e longo prazo.
 
-Sou apaixonado pelo ecossistema .NET e por linguagens de programação de forma geral. Tenho um vocabulário técnico sólido, o que me permite colaborar de forma eficaz com diferentes perfis dentro de um projeto, conectando times técnicos e stakeholders de forma clara e objetiva.
+Sou interessado pelo ecossistema .NET e por linguagens de programação de forma geral. Tenho um vocabulário técnico sólido, o que me permite colaborar de forma eficaz com diferentes perfis dentro de um projeto, conectando times técnicos e stakeholders de forma clara e objetiva.
 
 Nos meus momentos livres, gosto de resolver desafios de lógica e programação em plataformas como HackerRank e LeetCode sempre em busca de aprimorar meu raciocínio lógico e minhas habilidades de resolução de problemas.
 
