@@ -23,93 +23,81 @@ Nos meus momentos livres, gosto de resolver desafios de lógica e programação 
 
 <div align="left">
 
-  <!-- ===================== -->
   <!-- Linguagens -->
-  <!-- ===================== -->
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
 
-  <br /><br />
+  <!-- Frameworks / Backend -->
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".net" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".net core" />
+  <img width="10" />
+  <img src="https://static.cdnlogo.com/logos/b/67/blazor.svg" height="40" alt="blazor" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
 
-  <!-- ===================== -->
-  <!-- Frameworks & Backend -->
-  <!-- ===================== -->
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
-  <img width="12" />
-  <img src="https://static.cdnlogo.com/logos/b/67/blazor.svg" height="40" alt="blazor logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo" />
-
-  <br /><br />
-
-  <!-- ===================== -->
   <!-- Bancos de Dados -->
-  <!-- ===================== -->
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase" />
 
-  <br /><br />
+  <!-- Cloud / DevOps -->
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="github actions" />
 
-  <!-- ===================== -->
-  <!-- Cloud & DevOps -->
-  <!-- ===================== -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo" />
+  <!-- Testes -->
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="xunit nunit mstest" />
 
-  <br /><br />
-
-  <!-- ===================== -->
   <!-- Ferramentas -->
-  <!-- ===================== -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" />
-
-  <br /><br />
-
-  <!-- ===================== -->
-  <!-- Frontend / UI -->
-  <!-- ===================== -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget" />
 
 </div>
+
 
 
 ###
