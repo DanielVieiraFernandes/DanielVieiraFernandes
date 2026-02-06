@@ -4,13 +4,13 @@
 
 🚀 Sobre Mim
 
-Atuo no desenvolvimento de soluções escaláveis com C#, Blazor, ASP.NET e PostgreSQL. Minha evolução no ecossistema .NET tem sido marcada pelo domínio de todo o ciclo de vida da aplicação: da arquitetura (DDD, Camadas) e testes automatizados (unitários e integração) até a implantação em nuvem com Azure DevOps, Docker e pipelines de CI/CD.
+Desenvolvo soluções robustas utilizando C#, Blazor, ASP.NET e PostgreSQL, com foco na criação de sistemas escaláveis e de alta disponibilidade. Minha atuação técnica abrange todo o ciclo de vida da aplicação, desde a concepção da arquitetura e testes automatizados (unidade e integração) até a orquestração de infraestrutura e implantação automatizada via Azure DevOps e Docker.
 
-Tenho experiência prática na resolução de desafios técnicos complexos, como a implementação manual de comunicação com WebServices da Sefaz para emissão de NFe (XML e tributação) e o gerenciamento avançado de conexões com SignalR e WebSockets. Meu trabalho prioriza não apenas o código, mas também estratégias de segurança, observabilidade e uma documentação técnica consistente.
+Tenho experiência prática na implementação de integrações complexas e customizadas, construindo lógicas de comunicação e processamento de dados críticas sem dependência excessiva de bibliotecas externas. Aprofundei meu conhecimento nos mecanismos internos do .NET para gerenciar cenários de comunicação em tempo real e alta performance, garantindo que a aplicação seja resiliente e otimizada.
 
-Possuo uma abordagem analítica apurada para depuração e performance, compreendendo a fundo o comportamento do framework (Blazor Server/WASM) para tomar decisões arquiteturais assertivas. Busco sempre alinhar a robustez técnica — como versionamento rigoroso e layouts resilientes — com as regras de negócio.
+Minha abordagem de desenvolvimento é fundamentada em boas práticas de arquitetura (DDD, Clean Architecture) e estratégias sólidas de observabilidade e segurança. Tenho facilidade em identificar gargalos e bugs complexos, priorizando sempre a documentação clara e a manutenibilidade do código a longo prazo.
 
-Nos momentos livres, sigo aprimorando meu raciocínio lógico e habilidades algorítmicas resolvendo desafios em plataformas como HackerRank e LeetCode.
+Evoluí significativamente dentro do ecossistema .NET e possuo um vocabulário técnico que me permite transitar bem entre decisões de infraestrutura e regras de negócio. Nos momentos livres, sigo aprimorando meu raciocínio lógico resolvendo desafios algorítmicos em plataformas como HackerRank e LeetCode.
 
 ###
 
