@@ -2,7 +2,7 @@
 
 ###
 
-🚀 Sobre Mim
+### 🚀 Sobre Mim
 
 Desenvolvo soluções robustas utilizando C#, Blazor, ASP.NET e PostgreSQL, com foco na criação de sistemas escaláveis e de alta disponibilidade. Minha atuação técnica abrange todo o ciclo de vida da aplicação, desde a concepção da arquitetura e testes automatizados (unidade e integração) até a orquestração de infraestrutura e implantação automatizada via Azure DevOps e Docker.
 
@@ -19,7 +19,9 @@ Evoluí significativamente dentro do ecossistema .NET e possuo um vocabulário t
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVieiraFernandes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
+
+### 🛠️ Tech Stack 
 
 <div align="left">
 
