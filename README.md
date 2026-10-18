@@ -1,6 +1,4 @@
-<p align="left">
-  <img width="100%" src="assets/goku.jpg" alt="Son Goku, Instinto Superior" />
-</p>
+<img align="left" width="260" src="assets/goku.jpg" alt="Son Goku, Instinto Superior" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=46&duration=2200&pause=100000&color=FFFFFF&vCenter=true&width=420&height=70&repeat=false&lines=Daniel+Vieira" />
@@ -33,3 +31,4 @@ E anime, sempre.
 
 <sub>身勝手の極意</sub>
 
+<br clear="left"/>
