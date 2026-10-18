@@ -1,65 +1,33 @@
-<div align="center">
+<img align="right" width="280" src="assets/goku.png" alt="Son Goku, Instinto Superior" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:FF6A00,100:FFB000&height=200&section=header&text=Daniel%20Vieira&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20.NET&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Daniel Vieira" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=46&duration=2200&pause=100000&color=FFFFFF&vCenter=true&width=420&height=70&repeat=false&lines=Daniel+Vieira" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=46&duration=2200&pause=100000&color=000000&vCenter=true&width=420&height=70&repeat=false&lines=Daniel+Vieira" alt="Daniel Vieira" />
+</picture>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=FF8C00&center=true&vCenter=true&width=560&lines=C%23+%C2%B7+ASP.NET+%C2%B7+Blazor+%C2%B7+PostgreSQL;Clean+Architecture+%26+DDD;Sistemas+escal%C3%A1veis+e+resilientes;Sempre+treinando+para+o+pr%C3%B3ximo+n%C3%ADvel+%E2%9A%A1" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/danielvieiradev/"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:fernandesdanielvieira@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Gmail" /></a>
-
-<br/><br/>
-
-<img src="https://i.giphy.com/media/41exVPLrgjbZSqWP0n/giphy.gif" width="480" alt="Goku Ultra Instinct" />
-
-</div>
+Desenvolvedor de software.  
+Construo sistemas em **.NET** pensados para escalar, durar e ser fáceis de manter.
 
 <br/>
 
-## 🐉 Sobre mim
+**Stack**  
+C# · ASP.NET · Blazor · PostgreSQL  
+TypeScript · Node.js · NestJS · Redis  
+Docker · Azure DevOps · GitHub Actions
 
-Desenvolvedor de software focado no ecossistema **.NET**. Construo sistemas escaláveis e de alta disponibilidade com **C#, ASP.NET, Blazor e PostgreSQL**, cuidando de todo o ciclo da aplicação: da arquitetura aos testes, da infraestrutura ao deploy.
+**Como trabalho**  
+DDD, Clean Architecture, testes automatizados  
+e observabilidade desde o primeiro commit.
 
-- ⚡ **Arquitetura** com DDD, Clean Architecture, observabilidade e segurança
-- 🔌 **Integrações** complexas e comunicação em tempo real, explorando os mecanismos internos do .NET
-- 🧪 **Qualidade** com testes de unidade e integração e código pensado para durar
-- 🚀 **Entrega** automatizada com Azure DevOps, GitHub Actions e Docker
-- 🧠 **Treino diário** de algoritmos no LeetCode e HackerRank
+**Fora do código**  
+Algoritmos no LeetCode e no HackerRank.  
+E anime, sempre.
 
-<br/>
-
-## 🛠️ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,java,c&theme=dark" alt="Linguagens" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,vite&theme=dark" alt="Frameworks" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase&theme=dark" alt="Bancos de dados" />
-<br/>
-<img src="https://skillicons.dev/icons?i=azure,docker,githubactions,cloudflare,jest,vitest&theme=dark" alt="Cloud, DevOps e testes" />
-<br/>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,figma&theme=dark" alt="Ferramentas" />
-
-</div>
+**Contato**  
+[LinkedIn](https://www.linkedin.com/in/danielvieiradev/) · [E-mail](mailto:fernandesdanielvieira@gmail.com)
 
 <br/>
 
-## 📊 Power level
+<sub>身勝手の極意</sub>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DanielVieiraFernandes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FFB000&text_color=c9d1d9&locale=pt-br" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVieiraFernandes&layout=compact&langs_count=6&card_width=320&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=c9d1d9&locale=pt-br" height="165" alt="Linguagens mais usadas" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/DanielVieiraFernandes/DanielVieiraFernandes/output/snake.svg" width="100%" alt="Snake animation" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB000,50:FF6A00,100:0d1117&height=110&section=footer" width="100%" alt="" />
+<br clear="right"/>
