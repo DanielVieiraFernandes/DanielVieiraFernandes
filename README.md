@@ -1,4 +1,4 @@
-<img align="right" width="280" src="assets/goku.png" alt="Son Goku, Instinto Superior" />
+<img align="right" width="280" src="assets/goku.jpg" alt="Son Goku, Instinto Superior" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=46&duration=2200&pause=100000&color=FFFFFF&vCenter=true&width=420&height=70&repeat=false&lines=Daniel+Vieira" />
