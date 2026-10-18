@@ -8,8 +8,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/danielvieiradev/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=FF8C00" alt="LinkedIn" /></a>
-<a href="mailto:fernandesdanielvieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=FF8C00" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/danielvieiradev/"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:fernandesdanielvieira@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Gmail" /></a>
 
 <br/><br/>
 
@@ -55,8 +55,6 @@ Desenvolvedor de software focado no ecossistema **.NET**. Construo sistemas esca
 
 <img src="https://github-readme-stats.vercel.app/api?username=DanielVieiraFernandes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FFB000&text_color=c9d1d9&locale=pt-br" height="165" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVieiraFernandes&layout=compact&langs_count=6&card_width=320&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=c9d1d9&locale=pt-br" height="165" alt="Linguagens mais usadas" />
-
-<img src="https://streak-stats.demolab.com?user=DanielVieiraFernandes&hide_border=true&background=0d1117&ring=FF8C00&fire=FF6A00&currStreakLabel=FF8C00&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&locale=pt_BR" height="165" alt="GitHub streak" />
 
 <br/><br/>
 
