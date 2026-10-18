@@ -6,7 +6,8 @@
 </picture>
 
 Desenvolvedor de software.  
-Construo sistemas em **.NET** pensados para escalar, durar e ser fáceis de manter.
+Construo sistemas em **.NET** pensados para escalar,  
+durar e ser fáceis de manter.
 
 <br/>
 
